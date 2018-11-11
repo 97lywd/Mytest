@@ -1,0 +1,5 @@
+﻿  1109.c
+c:\users\zerisheng\source\repos\day16\day16\1109.c(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zerisheng\source\repos\day16\day16\1109.c(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zerisheng\source\repos\day16\day16\1109.c(17): warning C4090: “return”: 不同的“const”限定符
+  DAY16.vcxproj -> C:\Users\zerisheng\source\repos\DAY16\Debug\DAY16.exe
