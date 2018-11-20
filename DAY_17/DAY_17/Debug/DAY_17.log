@@ -1,0 +1,4 @@
+﻿  1112.c
+d:\c\day_17\day_17\1112.c(55): warning C4098: “Del”:“void”函数返回值
+d:\c\day_17\day_17\1112.c(114): warning C4098: “Clear”:“void”函数返回值
+  DAY_17.vcxproj -> D:\c\DAY_17\Debug\DAY_17.exe
